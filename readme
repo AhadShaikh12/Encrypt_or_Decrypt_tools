@@ -1,0 +1,25 @@
+Encrypt_orDecrypt_tools
+
+🔐 Text Encryption or Decryption Tool This is a simple and interactive web-based tool that allows you to encrypt or decrypt text easily. Whether you're learning about cryptography or just want a fun project, this tool provides a clean and functional interface
+
+🚀 Features 💬 Textarea input for any message
+
+🔒 "Encrypt" and "Decrypt" buttons
+
+🌈 Modern and attractive UI with gradient background 📁 Technologies Used HTML
+
+CSS
+
+JavaScript
+
+📦 How to Use Clone the repo or download the code.
+
+Open the html file in any browser.
+
+Type your message.
+
+Click "Encrypt" to convert it into encrypted format.
+
+Click "Decrypt" to revert it back.
+
+
